@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
-    "react-scripts": "3.4.2",
+    "react-scripts": "4.0.0",
     "react-router-dom": "4.3.1",
     "axios": "0.18.0",
     "snyk": "^1.437.3"
